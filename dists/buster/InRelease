@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
@@ -18,3 +21,14 @@ SHA256:
  e8415a5a0a716f997429159ce28b142a6bf4fe525f9c42b2973f95ec8cf64f25 609 main/binary-armhf/Packages
  75988eddcbdcef1827d706bf8afbfbaeca62df3ceb9c1c28fa60592bdc765fa5 434 main/binary-armhf/Packages.gz
  f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEt+s+GPAZngaHjvJsGx/8GpRmcnAFAl5IGK8ACgkQGx/8GpRm
+cnD5KQf+L8Tub5DNNRzlIFeONlPUMORu8Gpq09Jswp3I6piOmc8qVfpkoilicGP2
+0mDR9Atwmzes/NwDnBnpUjRZGf3GM7T8IDSt6CjpWgV/MJc3MacnoINjlJRSpY6S
+c/XlcV43ZBCnDkquZxQYIclaU4Llyh6Vty0AgRN6cjAgK/ARXafg7E7GrTxB7qa6
+xnpJMJKFOofl+tgzJbIX/muuiV7t6XF25QHPptBR5dDqbpLd7j+l1a9LXyTNDuLy
+JngTTQy/7wOSrMoXyPSC4+l6Gcch/tOCj+2hmfTyf8ZHsnAaXyiGaXoJmdn5pSim
+96qgGlf523o+YUAllFRwxzhJDTP9wg==
+=GTQT
+-----END PGP SIGNATURE-----
