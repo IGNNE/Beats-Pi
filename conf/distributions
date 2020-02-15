@@ -2,6 +2,6 @@ Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
 Codename: buster
-Architectures: armhf
+Architectures: arm
 Components: main
 Description: Elastic Beats.  You know, for Pi.
