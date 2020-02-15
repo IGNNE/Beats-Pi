@@ -1,0 +1,20 @@
+Origin: RaoulDuke-Esq
+Label: Beats-Pi
+Suite: stable
+Codename: buster
+Date: Sat, 15 Feb 2020 02:41:33 UTC
+Architectures: armhf
+Components: main
+Description: Elastic Beats.  You know, for Pi.
+MD5Sum:
+ cd0dd85499b7109a227857655220c9ff 649 main/binary-armhf/Packages
+ d334abc6c133d15f4d0e00522ecdf85b 458 main/binary-armhf/Packages.gz
+ 17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
+SHA1:
+ 5c60d4a06394143df7d063d8a5a21a2b0bfc098b 649 main/binary-armhf/Packages
+ e7b06155185cb5ebe92f1f01af8d276ee6f1678b 458 main/binary-armhf/Packages.gz
+ abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
+SHA256:
+ b6ca50f71518762b0f8f226e53cee13460fb9974f7771d49ac3d8da23b1d9e27 649 main/binary-armhf/Packages
+ 94afcdeb56739d2cfd68b3b2d3075b7eabf18fb8b4365dde57074561dfb5891d 458 main/binary-armhf/Packages.gz
+ f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
