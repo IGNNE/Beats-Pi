@@ -5,30 +5,30 @@ Origin: RaoulDuke-Esq
 Label: Beats-Pi
 Suite: stable
 Codename: buster
-Date: Sat, 15 Feb 2020 16:13:27 UTC
+Date: Sun, 16 Feb 2020 01:39:02 UTC
 Architectures: armhf
 Components: main
 Description: Elastic Beats.  You know, for Pi.
 MD5Sum:
- 71d5de97d92d1840f409e33c61f8f6d8 609 main/binary-armhf/Packages
- 3f804a8a0cd99756e02532a1d8d935c6 434 main/binary-armhf/Packages.gz
+ 8c0dccd00797b60c2432a7ad0e3fc06d 1099 main/binary-armhf/Packages
+ 539523f80b3416ad5228d7a03b5c257b 604 main/binary-armhf/Packages.gz
  17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
 SHA1:
- 5cca7b14536af0f14691dd5b0abf10ea004b90a0 609 main/binary-armhf/Packages
- bbd916784d3d387ad73b3b50ae8413c44c0c4981 434 main/binary-armhf/Packages.gz
+ c7d7217bb2dbebfb0f182f594de216e8eac3f8d2 1099 main/binary-armhf/Packages
+ 0b403350a8a5d4822791042ae7b2cfa04db24a40 604 main/binary-armhf/Packages.gz
  abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
 SHA256:
- e8415a5a0a716f997429159ce28b142a6bf4fe525f9c42b2973f95ec8cf64f25 609 main/binary-armhf/Packages
- 75988eddcbdcef1827d706bf8afbfbaeca62df3ceb9c1c28fa60592bdc765fa5 434 main/binary-armhf/Packages.gz
+ aa026aabc4057487b9fa539c381ca8f233482b355faf7423948d2a3d197886f9 1099 main/binary-armhf/Packages
+ ee4160792e284fe1658d911eb6089c5a125b8fba203c9bc0e31f5e253fdac5e3 604 main/binary-armhf/Packages.gz
  f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEt+s+GPAZngaHjvJsGx/8GpRmcnAFAl5IGK8ACgkQGx/8GpRm
-cnD5KQf+L8Tub5DNNRzlIFeONlPUMORu8Gpq09Jswp3I6piOmc8qVfpkoilicGP2
-0mDR9Atwmzes/NwDnBnpUjRZGf3GM7T8IDSt6CjpWgV/MJc3MacnoINjlJRSpY6S
-c/XlcV43ZBCnDkquZxQYIclaU4Llyh6Vty0AgRN6cjAgK/ARXafg7E7GrTxB7qa6
-xnpJMJKFOofl+tgzJbIX/muuiV7t6XF25QHPptBR5dDqbpLd7j+l1a9LXyTNDuLy
-JngTTQy/7wOSrMoXyPSC4+l6Gcch/tOCj+2hmfTyf8ZHsnAaXyiGaXoJmdn5pSim
-96qgGlf523o+YUAllFRwxzhJDTP9wg==
-=GTQT
+iQEzBAEBCgAdFiEEt+s+GPAZngaHjvJsGx/8GpRmcnAFAl5InTwACgkQGx/8GpRm
+cnDaXgf7BYBywVazE2fQDobI6HMgb/5mX9w0Ox1YnoEUtELftrKI4ko0jr55FINp
+kL6sLZyHNRP0W/OwpaicUYDJuOqABXQyDMyYRPUFqvtIOZgoTmCU8wOn0pIpMILC
+phXttXyrJoZ1aVJMtvd0J0gAxcXVV/stMm/VooNd7+9Y/TLgUqM/xzXXCXvic0JZ
+YwCpK37rT5YY+ECJS41sHA6nEGqRavXombBzraFKgvqMhG57oYC8IEX3eDqXGXC6
+BayxaNHUVP8+ZAEazqc35mYVO+9cBbqsmk1SUt29pEgyD3/onpebby4cY1yhOcJU
+0+ef+T8xdu94frAD0YSVgFxM1L1HoQ==
+=aRNh
 -----END PGP SIGNATURE-----

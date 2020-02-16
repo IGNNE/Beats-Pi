@@ -1,3 +1,17 @@
+Package: filebeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.5.2
+Priority: optional
+Section: utils
+Filename: pool/main/f/filebeat/filebeat_7.5.2_armhf.deb
+Size: 22853932
+SHA256: ec59b8a6fd8962f95d9f9d99e9f1f0801d22bc611c7640544371db5b13b1d1ee
+SHA1: 275ffcc353263aae1973d6c9a781d7f8544d1bc5
+MD5sum: f68313c2ffb5ed9d55f9ab2a3b47249f
+Description: Filebeat is a lightweight shipper for forwarding and centralizing log data..
+  https://www.elastic.co/guide/en/beats/filebeat/7.5/
+
 Package: metricbeat
 Architecture: armhf
 Maintainer: RaoulDuke-Esq
