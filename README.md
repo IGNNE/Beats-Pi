@@ -40,4 +40,4 @@ sudo apt-get install metricbeat
 
 If you're not already familiar with how to configure Beats, check out [Elastic's documentation](https://www.elastic.co/guide/index.html).
 
-These packages have config files bundled with names like "newmetricbeat.yml".  This is to prevent overwriting your config files during an update.  Each beat is designed to work with a config file like "metricbeat.yml" so you will need to change the config file name if this is your first install.
+These packages have config files bundled with names like "newmetricbeat.yml".  This is to prevent overwriting your config files during an update.  Each beat is designed to work with a config file like "metricbeat.yml" so you will need to change the config file name if this is your first install.  Enjoy!
