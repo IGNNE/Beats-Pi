@@ -5,5 +5,4 @@ Codename: buster
 Architectures: armhf
 Components: main
 Description: Elastic Beats.  You know, for Pi.
-SignWith: B7EB3E18F0199E06878EF26C1B1FFC1A94667270
-
+SignWith: 53A0E78168790AA76CEE0AB1102283137E635148
