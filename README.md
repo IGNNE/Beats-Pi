@@ -1,6 +1,10 @@
 # Beats-Pi
 Elastic Beats.  You know, for Pi.
 
+## Updates 17 March 2020
+v7.6.1 of all the Beats are now live!  I changed the GPG key, so you'll need to re-download using the instructions below.
+ENJOY!
+
 ### About this repo
 Elastic Beats are lightweight data shippers that collect and send information back to Logstash, your Elasticsearch cluster, or another output of your choosing.  However, Elastic doesn't package them for Raspberry Pi, so even if you connect to Elastic's apt repo, you won't be able to install Beats.
 
