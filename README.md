@@ -43,3 +43,6 @@ sudo apt-get install metricbeat
 ## Configuring Beats
 
 If you're not already familiar with how to configure Beats, check out [Elastic's documentation](https://www.elastic.co/guide/index.html).
+
+## Upgrading Beats
+If you've previously installed Beats using this repo, don't worry!  When you upgrade you will be prompted on whether to keep or replace your existing beat.yml file.  Just type N to keep your existing version.
