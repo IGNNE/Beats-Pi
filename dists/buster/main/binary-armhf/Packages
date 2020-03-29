@@ -1,0 +1,71 @@
+Package: auditbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.6.1
+Priority: optional
+Section: utils
+Filename: pool/main/a/auditbeat/auditbeat_7.6.1_armhf.deb
+Size: 23508816
+SHA256: cb0992bf9bcde4d6a7e8407548e705e76f1f5254225922e78b9b6295bf27dab2
+SHA1: 314ae53340d60c5b6a56e102ef5267646d6e25ec
+MD5sum: 06b10ae0e50aadf25797e6d8f7826d34
+Description: auditbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/auditbeat
+
+Package: filebeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.6.1
+Priority: optional
+Section: utils
+Filename: pool/main/f/filebeat/filebeat_7.6.1_armhf.deb
+Size: 24364384
+SHA256: dac2f97de0d92555bf561a2f2998dde786f928c78d6fc4c4a67b287cd5424fd9
+SHA1: d04ca217c34b552db7bde76f852608fd7179b7fc
+MD5sum: 1ee17204420784096d161a35963f8362
+Description: filebeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/filebeat
+
+Package: heartbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.6.1
+Priority: optional
+Section: utils
+Filename: pool/main/h/heartbeat/heartbeat_7.6.1_armhf.deb
+Size: 23154072
+SHA256: c3cefda5bba246c204b25ac804686af933ddd451198e418c1698f5722ad80ad0
+SHA1: b11783b69e6e575977cb81519682e89889844120
+MD5sum: 24a4e8bea3b8b6200cf1bbe5fba9c9d9
+Description: heartbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/heartbeat
+
+Package: metricbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Version: 7.6.1
+Priority: optional
+Section: utils
+Filename: pool/main/m/metricbeat/metricbeat_7.6.1_armhf.deb
+Size: 33458940
+SHA256: fdf45aeee3e4d25b2971db6be0ac30dfc9ae92d5f02c0abcedf03308144e4a0d
+SHA1: 8dfb77948df41f6598c6a46a4aa37755a9a01e2a
+MD5sum: 2efed1d41f8331e6a587ae69a5df7077
+Description: metricbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/metricbeat
+
+Package: packetbeat
+Architecture: armhf
+Maintainer: RaoulDuke-Esq
+Depends: libpcap-dev
+Version: 7.6.1
+Priority: optional
+Section: utils
+Filename: pool/main/p/packetbeat/packetbeat_7.6.1_armhf.deb
+Size: 24529900
+SHA256: fe59f22e422eddbd5c720b533cc1777d8ee244c9a690dc1a65c10c3d5d8a4d04
+SHA1: 437e5f3b4cb7a5c1c94f0f687d11ac4e4a6c1800
+MD5sum: c38208b341be0ff181d2ce957db6ef9f
+Description: packetbeat is a lightweight shipper.
+  https://www.elastic.co/guide/en/beats/packetbeat
+
