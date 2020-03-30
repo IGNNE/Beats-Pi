@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: RaoulDuke-Esq
+Label: Beats-Pi
+Architecture: arm64
+Description: Elastic Beats.  You know, for Pi.

@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: RaoulDuke-Esq
+Label: Beats-Pi
+Suite: stable
+Codename: buster
+Date: Mon, 30 Mar 2020 01:13:35 UTC
+Architectures: armhf arm64
+Components: main
+Description: Elastic Beats.  You know, for Pi.
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 17c23d9cf70bfa322e71e2292ea96a20 137 main/binary-armhf/Release
+ 5ef81b8f4792d0c06bf26ca7e1852b45 2266 main/binary-arm64/Packages
+ 09ca7f65874b766ee45454f819479098 839 main/binary-arm64/Packages.gz
+ c7472b782e9e0f38209776bfb515970f 137 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ abc9d69045dba007f3f0c498cf468734741f6bec 137 main/binary-armhf/Release
+ 98c30761b64ace114cbd6813531a49d0f9030aac 2266 main/binary-arm64/Packages
+ 9f7109763c7a106b40ad4a779bae5c88f7c7a35a 839 main/binary-arm64/Packages.gz
+ 42d45ab4cf443f62d51c417582353ec79bd5b428 137 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ f27ed81d7e7c5c108b55306530add4a34e644d2286e024416611270be6c8f5fd 137 main/binary-armhf/Release
+ 1bc575ba55dfe8918fdc2fbe9905a49938d0c600c9eb40cafe4e150d092ab3bc 2266 main/binary-arm64/Packages
+ 2970f9a4d40dba0111dadecf31671254146df6bc4aa354b746205f798e726af8 839 main/binary-arm64/Packages.gz
+ fbf96c16ee3468b74a591996721c7fbd820a60de50d7d149b0a3b354e8dcd113 137 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEU6DngWh5Cqds7gqxECKDE35jUUgFAl6BR78ACgkQECKDE35j
+UUiNywv7Ba42vH4TGnONdKCrLP85RgO2Yyydoyrfk6NkM9y4+1s/A3r0+IAbU9Ii
+sj/eEYqZ2YVPQYr/0UnD/RlbaNzbZXaH6rBF3iar09RlebcqOfUMCM7GtFgaKabF
+V6Y/RoZY+MznHcGYCZf1RB1P5qU1pqnZKZjUqykzAntUfAItkhfCIxQZDK+q6ncG
+sdbuEoLdXeRvvRYzrcXAdZxhJ2Dyg/ZG4q7P/jw1hxW4gEJD6sBRyvtCq/vrht4f
+gpZIWXtcMtkDa26jT5mVn0GZcWt24sdo964SXMArlssU0Rufh21CEamBJzIjZro1
+XU7P6OjOx6tBXgDgetz/BUSzzT9EjVeqa5dnirHXqhQQDj/iY8AwR0+x80WN19C/
+rwBNG0DROcOs5fJobhYrgUSlRLxutDcsngAv501o4u7EzFMsQsxbHoJGaYvpWWLm
+WebYXu2SOcfdWDlMal/KLPjkWJpeLqJhpAaxP3FTbphe59ecucsEUjikLjysWj8v
+2/WUEf2J
+=cQ/R
+-----END PGP SIGNATURE-----

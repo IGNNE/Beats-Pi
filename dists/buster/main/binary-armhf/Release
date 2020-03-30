@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: RaoulDuke-Esq
+Label: Beats-Pi
+Architecture: armhf
+Description: Elastic Beats.  You know, for Pi.
